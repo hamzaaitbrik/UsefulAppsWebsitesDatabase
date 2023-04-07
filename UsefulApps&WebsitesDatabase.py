@@ -9,6 +9,7 @@
             ],
             'Freemium':[
                 'https://libgen.is/', # all the ebooks you can imagine
+                'https://temp-mail.org', # temporary email
                 'https://12ft.io', # bypass any paywall
                 'https://tinywow.com/', # free alternatives to paid tools
             ],
