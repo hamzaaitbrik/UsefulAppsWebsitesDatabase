@@ -8,6 +8,7 @@
                 'https://nowsecure.nl' # pass bot test, note: buggy website
             ],
             'Freemium':[
+                'https://libgen.is/', # all the ebooks you can imagine
                 'https://12ft.io', # bypass any paywall
                 'https://tinywow.com/', # free alternatives to paid tools
             ],
