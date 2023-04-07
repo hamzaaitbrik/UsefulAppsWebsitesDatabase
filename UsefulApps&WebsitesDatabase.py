@@ -19,6 +19,9 @@
                 'https://playphrase.me', # returns scenes from famous movies containing the specified keyword/keyphrase
                 'https://remove.bg/', # remove background from images
             ]
+            'AI':[
+                'https://axiom.ai/', # automate tasks on the web without the need to code
+            ]
     ],
     'Apps':[
     ]
